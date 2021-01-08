@@ -2,7 +2,7 @@
 <h1 align="center">  Hi there 👋, I'm Julian </h1>
 
 <h2 align="center"> | Software Quality Assurance | </h3>
-<h3 align="center"> Automate & Manual </h3> <br>
+<h2 align="center"> Automate & Manual </h3> <br>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------
