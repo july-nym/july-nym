@@ -22,7 +22,7 @@
 
 ### 📊 Waka stats
 
-[![july_nym's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=july_nym)](https://github.com/july-nym/github-readme-stats)
+[![july_nym's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=july_nym&layout=compact)](https://github.com/july-nym/github-readme-stats)
 
 
 
